@@ -1,5 +1,5 @@
 # Hackathon Calculator
-Written in Unity + C#
+Written in Unity + C#.
 
 This is the code for a calculator which will convert a dollar amount into a visual representation of coins and dollar bills. 
 
